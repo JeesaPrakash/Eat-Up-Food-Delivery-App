@@ -51,8 +51,8 @@ In this application, we make a Food Delivery Application <br>
 ![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images4.jpg)
 
 ### `Admin`
-![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images4.jpg)
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images5.jpg)
 
 ### `History`
-![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images5.jpg)
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images6.jpg)
 
