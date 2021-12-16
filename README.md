@@ -39,11 +39,20 @@ In this application, we make a Food Delivery Application <br>
 
 ## Preview
 ### `Client Side`
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images.jpg)
 
 ### `Menu`
-### `Side bar`
-### `Checkout Page`
-### `Admin`
-### `History`
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images2.jpg)
 
+### `Side bar`
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images3.jpg)
+
+### `Checkout Page`
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images4.jpg)
+
+### `Admin`
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images4.jpg)
+
+### `History`
+![](https://github.com/Anku-Kashyap/Eat-Up-Food-Delivery-App/blob/main/Images/images5.jpg)
 
